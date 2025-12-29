@@ -42,7 +42,7 @@ inotify API를 활용한 파일 감시, 데몬 모드, 로그 시스템 등을 �
 
 ## 사용 기술
 - C
-- Linux / POSIX
+- Linux
 - inotify API
 - Git / GitHub
 
